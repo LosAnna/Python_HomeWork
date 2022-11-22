@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+    <contact>
+        <Last_name>Lisov</Last_name>
+        <Name>Ivan</Name>
+        <Phone_number>123</Phone_number>
+        <Info>work</Info>
+    </contact>
+    <contact>
+        <Last_name>Petrov</Last_name>
+        <Name>Stas</Name>
+        <Phone_number>456</Phone_number>
+        <Info>home</Info>
+    </contact>
+</contacts>
