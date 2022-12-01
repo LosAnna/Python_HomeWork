@@ -8,7 +8,7 @@ global count
 count = 0
 num = random.randint(1,1000)
 
-bot = telebot.TeleBot("5805302841:AAFwhmruEuHxB0HPOiGr-xp4dgzk3IZCDYI", parse_mode=None)
+bot = telebot.TeleBot("TOKEN", parse_mode=None)
 
 @bot.message_handler(commands=['start', 'help', 'hello'])
 def send_welcome(message):
